@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @LauraMorningOwl
-- 👀 I’m interested in languages.
+- 👀 I’m interested in languages, thus in NLP.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on everything regarding languages and studying.
